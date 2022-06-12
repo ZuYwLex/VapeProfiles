@@ -1,2 +1,2 @@
 # VapeConfigs
-Making VapeV4 Configs because bored
+Making VapeV4 Profiles [Configs] because bored
